@@ -4,7 +4,7 @@ Standalone ml5.js KNN Image Classifier Example
 
 ## Usage
 
-Clone or [download]() this repository:
+Clone or [download](https://github.com/cvalenzuela/ml5_KNN_example/archive/master.zip) this repository:
 
 ```bash
 git clone https://github.com/cvalenzuela/ml5_KNN_example.git
