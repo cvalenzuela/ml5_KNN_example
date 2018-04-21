@@ -29,5 +29,5 @@ No module named SimpleHTTPServer
 It means you have python3. Try with:
 
 ```bash
-python -m http.server
+python3 -m http.server
 ```
